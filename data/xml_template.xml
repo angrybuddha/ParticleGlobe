@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<city>
+		<lat>1000.00</lat>
+		<lon>1000.00</lon>
+		<pop>1000.00</pop>
+		<name>1000.00</name>
+		<region></region>
+		<country></country>
+		<geoid></geoid>
+		<abbr></abbr>
+	</city>
+	<city>
+		<lat>1000.00</lat>
+		<lon>1000.00</lon>
+		<pop>1000.00</pop>
+		<name>1000.00</name>
+		<region></region>
+		<country></country>
+		<geoid></geoid>
+		<abbr></abbr>
+	</city>
+</data>

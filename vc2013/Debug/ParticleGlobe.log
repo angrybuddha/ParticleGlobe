@@ -1,0 +1,2 @@
+﻿  ParticleGlobeApp.cpp
+e:\work\interactive\cinder\particleglobe\src\particleglobeapp.cpp(8): fatal error C1083: Cannot open include file: 'cinder/gl/DisplayList.h': No such file or directory
